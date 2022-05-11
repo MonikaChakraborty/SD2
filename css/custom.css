@@ -1,0 +1,141 @@
+.navbar-brand
+{
+font-family: 'Ubuntu', sans-serif;
+font-size: 2em;
+font-weight: bold;
+}
+
+
+.navbar #myMenu .custom-nav .nav-item a
+{
+    color: #fff;
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover
+{
+    color: #f0AAB1;
+}
+
+/* Make Header Image Responsive */
+.back1-img
+{
+    padding-top: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    padding-top: 500px;
+    border-radius: 0px;
+    /* margin-top: 60px; */
+}
+/* Header Image Subtitle */
+.font-italic
+{
+    font-size: 24px;
+}
+
+/* Margin for Welcome to OSMS */
+.mainHeading
+{
+    margin-top: 50px;
+}
+@media only screen and (max-width:600px)
+{
+.myclaas
+{
+    margin-top: 350px;
+    text-align: center;
+}
+}
+
+.back2-img
+{
+    
+    margin-top: auto;
+    background-size: cover;
+    background-position: center center;
+    /* padding-top: 0px; */
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    border-radius: 0px;
+    
+}
+ .container .jumbotron
+{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(116, 119, 186));
+
+}
+/* .card .cardbody
+{
+    height: 500px;
+    width:200px;
+    
+} */
+/* .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  } */
+/* .fi-color
+{
+    color: #D67427;
+} */
+.fa-facebook-f
+{
+    color:#1369B5;
+}
+.fa-twitter
+{
+    color:#80BFF7;
+}
+.fa-youtube
+{
+    color: red;
+}
+ .fa-google-plus-g
+{
+    color: #ED664B;
+}
+.fa-rss
+{
+    color: #F18D3B;
+}
+/* .fi-color:hover
+{
+    color: burlywood;
+} */
+.fa-facebook-f:hover
+{
+    color:#E2C6AF;
+}
+.fa-twitter:hover
+{
+    color:#E2C6AF;
+}
+.fa-youtube:hover
+{
+    color:#E2C6AF;
+}
+.fa-google-plus-g:hover
+{
+    color:#E2C6AF;
+}
+.fa-rss:hover
+{
+    color:#E2C6AF;
+}
+/* .adminstyle:hover
+{
+    color:#E2C6AF;
+} */
+a
+{
+    color: black;
+}
+.active
+{
+    color:white;
+    background-color: #dc3545;
+}
+a:hover
+{
+    color: #f26571;
+}
